@@ -1,5 +1,3 @@
-![ViewCount] (https://views.whatilearened.today/views/github/mihirkudale/IBM_Data_Science_Professional_Certification.svg?cache=remove
-
 # IBM: Data Science Professional Certification
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
