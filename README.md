@@ -1,6 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/mihirkudale/IBM_Data_Science_Professional_Certification.svg?cache=remove)
 
-# IBM-Data-Science-Professional-Course Apecialization
+# IBM-Data-Science-Professional-Course Specialization
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="250" width="400"> 
 
